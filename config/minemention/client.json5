@@ -1,0 +1,5 @@
+{
+  // Sets where the default mentions should be displayed when the chat gui is open.
+  // Allowed values: hidden, left, right
+  "displayLocation": "right"
+}

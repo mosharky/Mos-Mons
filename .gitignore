@@ -1,0 +1,50 @@
+# config
+/config/jei/world/
+/config/blockswap/known_states/
+/config/inventoryprofilesnext/*
+!config/inventoryprofilesnext/inventoryprofiles.json
+/config/voicechat/username-cache.json
+/config/voicechat-volumes.properties
+/config/Obscuria/Data/
+
+# root folders
+/not-enough-crashes/
+/crash-reports/
+/resourcepacks/
+/screenshots/
+/saves/
+/logs/
+/mods/
+/debug/
+/data/
+/local/
+/patchouli_books/
+/schematics/
+/XaeroWorldMap/
+/XaeroWaypoints*/
+/modernfix/
+/showdown/
+
+# root files
+knownkeys.txt
+/options.txt
+realms_persistence.json
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+patchouli_data.json
+o_prof
+enigmatic_persistence.dat
+reauth.toml
+mods
+servers.dat
+rhino.local.properties
+seamless.txt
+
+# launcher-related
+.curseclient
+icon.png
+/server-resource-packs/
+/coremods/
+/texturepacks/
+minecraftinstance.json

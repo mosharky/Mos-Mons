@@ -1,0 +1,116 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": false,
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": false,
+	"state_swapper": [],
+	"swapper": {
+		"rats:cauldron_milk": "minecraft:cauldron",
+		"betterend:ender_ore": "minecraft:end_stone",
+		"betterend:thallasium_ore": "minecraft:end_stone",
+		"betterend:thallasium_bars": "create:brass_bars",
+		"betterend:end_stone_smelter": "betterend:end_stone_furnace",
+		"betternether:nether_lapis_ore": "minecraft:netherrack",
+		"betternether:nether_ruby_ore": "minecraft:netherrack",
+		// thallasium bs
+		"betterend:thallasium_bulb_lantern": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_white": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_orange": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_magenta": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_light_blue": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_yellow": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_lime": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_pink": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_gray": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_light_gray": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_cyan": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_purple": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_blue": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_brown": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_green": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_red": "minecraft:lantern",
+		"betterend:thallasium_bulb_lantern_black": "minecraft:lantern",
+		// terminite
+		"betterend:terminite_bulb_lantern": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_white": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_orange": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_magenta": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_light_blue": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_yellow": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_lime": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_pink": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_gray": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_light_gray": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_cyan": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_purple": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_blue": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_brown": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_green": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_red": "minecraft:lantern",
+		"betterend:terminite_bulb_lantern_black": "minecraft:lantern",
+		// iron
+		"betterend:iron_bulb_lantern": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_white": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_orange": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_magenta": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_light_blue": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_yellow": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_lime": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_pink": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_gray": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_light_gray": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_cyan": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_purple": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_blue": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_brown": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_green": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_red": "minecraft:lantern",
+		"betterend:iron_bulb_lantern_black": "minecraft:lantern",
+		// other lanterns
+		"betterend:andesite_lantern": "minecraft:lantern",
+		"betterend:diorite_lantern": "minecraft:lantern",
+		"betterend:granite_lantern": "minecraft:lantern",
+		"betterend:quartz_lantern": "minecraft:lantern",
+		"betterend:purpur_lantern": "minecraft:lantern",
+		"betterend:end_stone_lantern": "minecraft:lantern",
+		"betterend:blackstone_lantern": "minecraft:lantern",
+		// end stone brick
+		"betterend:end_stone_brick_weathered": "enlightened_end:cracked_end_stone_bricks",
+		"betterend:end_stone_brick_weathered_slab": "minecraft:end_stone_brick_slab",
+		"betterend:end_stone_brick_weathered_stairs": "minecraft:end_stone_brick_stairs",
+		"betterend:end_stone_brick_weathered_wall": "minecraft:end_stone_brick_wall",
+		"betterend:end_stone_brick_cracked": "enlightened_end:cracked_end_stone_bricks",
+		"betterend:end_stone_brick_cracked_slab": "minecraft:end_stone_brick_slab",
+		"betterend:end_stone_brick_cracked_stairs": "minecraft:end_stone_brick_stairs",
+		"betterend:end_stone_brick_cracked_wall": "minecraft:end_stone_brick_wall",
+		// shulker boxes
+		"minecraft:shulker_box": "ironshulkerbox:iron_shulker_box",
+		"minecraft:white_shulker_box": "ironshulkerbox:iron_shulker_box_white",
+		"minecraft:orange_shulker_box": "ironshulkerbox:iron_shulker_box_orange",
+		"minecraft:magenta_shulker_box": "ironshulkerbox:iron_shulker_box_magenta",
+		"minecraft:light_blue_shulker_box": "ironshulkerbox:iron_shulker_box_light_blue",
+		"minecraft:yellow_shulker_box": "ironshulkerbox:iron_shulker_box_yellow",
+		"minecraft:lime_shulker_box": "ironshulkerbox:iron_shulker_box_lime",
+		"minecraft:pink_shulker_box": "ironshulkerbox:iron_shulker_box_pink",
+		"minecraft:gray_shulker_box": "ironshulkerbox:iron_shulker_box_gray",
+		"minecraft:light_gray_shulker_box": "ironshulkerbox:iron_shulker_box_light_gray",
+		"minecraft:cyan_shulker_box": "ironshulkerbox:iron_shulker_box_cyan",
+		"minecraft:purple_shulker_box": "ironshulkerbox:iron_shulker_box_purple",
+		"minecraft:blue_shulker_box": "ironshulkerbox:iron_shulker_box_blue",
+		"minecraft:brown_shulker_box": "ironshulkerbox:iron_shulker_box_brown",
+		"minecraft:green_shulker_box": "ironshulkerbox:iron_shulker_box_green",
+		"minecraft:red_shulker_box": "ironshulkerbox:iron_shulker_box_red",
+		"minecraft:black_shulker_box": "ironshulkerbox:iron_shulker_box_black",
+		// misc
+		"cataclysm:purpur_wall": "enlightened_end:purpur_wall"
+	}
+}

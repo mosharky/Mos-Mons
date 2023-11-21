@@ -1,0 +1,57 @@
+{
+    "variants": {
+        "facing=north": [
+            {
+                "model": "betternether:block/brown_dense_mushroom_shelf"
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_1"
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_2"
+            }
+        ],
+        "facing=east": [
+            {
+                "model": "betternether:block/brown_dense_mushroom_shelf",
+                "y": 90
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_1",
+                "y": 90
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_2",
+                "y": 90
+            }
+        ],
+        "facing=south": [
+            {
+                "model": "betternether:block/brown_dense_mushroom_shelf",
+                "y": 180
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_1",
+                "y": 180
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_2",
+                "y": 180
+            }
+        ],
+        "facing=west": [
+            {
+                "model": "betternether:block/brown_dense_mushroom_shelf",
+                "y": 270
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_1",
+                "y": 270
+            },
+            {
+                "model": "betternether:block/brown_big_mushroom_shelf_2",
+                "y": 270
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "block.alexscaves.limestone": "Deep Limestone",
+    "block.alexscaves.limestone_stairs": "Deep Limestone Stairs",
+    "block.alexscaves.limestone_slab": "Deep Limestone Slab",
+    "block.alexscaves.limestone_wall": "Deep Limestone Wall",
+    "block.alexscaves.limestone_pillar": "Deep Limestone Pillar",
+    "block.alexscaves.limestone_chiseled": "Chiseled Deep Limestone",
+    "block.alexscaves.smooth_limestone": "Smooth Deep Limestone",
+    "block.alexscaves.smooth_limestone_stairs": "Smooth Deep Limestone Stairs",
+    "block.alexscaves.smooth_limestone_slab": "Smooth Deep Limestone Slab",
+    "block.alexscaves.smooth_limestone_wall": "Smooth Deep Limestone Wall",
+
+    "advancements.alexscaves.limestone.desc": "Obtain Deep Limestone",
+    "advancements.alexscaves.cave_painting.desc": "Create a Cave Painting by using Charcoal on Smooth Deep Limestone"
+}

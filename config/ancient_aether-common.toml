@@ -1,0 +1,9 @@
+
+[Worldgen]
+	#The weighting of Ancient Aether regions in the Aether
+	"Ancient Aether Region Weight" = 30
+	#Enables the Default Biome Improvement Datapack by default
+	"Enables Biome Improvement Datapack by default" = true
+	#Enables the New Worldgen Datapack by default
+	"Enables New Worldgen by default" = true
+

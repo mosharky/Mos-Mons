@@ -1,0 +1,7 @@
+{
+    "parent": "betternether:block/big_mushroom_shelf1",
+    "textures": {
+        "mushroom_texture": "betternether:block/red_mushroom_shelf",
+        "particle": "minecraft:block/red_mushroom_block"
+    }
+}

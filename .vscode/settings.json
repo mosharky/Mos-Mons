@@ -1,0 +1,59 @@
+{
+    "files.exclude": {
+        ".vscode/": false,
+        ".curseclient": false,
+        ".qmenu_opened.marker": false,
+        "enigmatic_persistence.dat": false,
+        "icon.png": false,
+        "knownkeys.txt": false,
+        "minecraftinstance.json": false,
+        "o_prof": false,
+        "options.txt": false,
+        "patchouli_data.json": false,
+        "realms_persistence.json": false,
+        "reauth.toml": false,
+        "TrashSlotSaveState.json": false,
+        "usercache.json": false,
+        "usernamecache.json": false,
+        "rhino.local.properties": false,
+        "coremods/": false,
+        "crash-reports/": false,
+        "debug/": false,
+        "downloads/": false,
+        "kubejs/exported/": false,
+        "logs/": false,
+        "mods/": false,
+        "not-enough-crashes/": false,
+        "patchouli_books/": false,
+        "resourcepacks/": false,
+        "saves/": false,
+        "schematics/": false,
+        "screenshots/": false,
+        "server-resource-packs/": false,
+        "shaderpacks/": false,
+        "texturepacks/": false,
+        "config/": false,
+        "local/": false,
+        "modernfix/": false,
+        "showdown/": false,
+        "Xaero*/": false,
+        "seamless.txt": false,
+        "servers.dat": false,
+        "servers.dat_old": false,
+        "data/": false
+    },
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/lang/*.json"
+            ],
+            "url": "./.vscode/probe.lang-schema.json"
+        },
+        {
+            "fileMatch": [
+                "/probe/docs/*.json"
+            ],
+            "url": "./.vscode/probe.doc-schema.json"
+        }
+    ]
+}
