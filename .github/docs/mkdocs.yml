@@ -1,0 +1,45 @@
+# https://squidfunk.github.io/mkdocs-material/getting-started/
+# https://www.mkdocs.org/user-guide/writing-your-docs/
+site_name: Mo's Mons' SMP
+docs_dir: pages
+repo_url: https://github.com/mosharky/Mos-Mons
+repo_name: mosharky/Mos-Mons
+nav:
+  - Home: 'index.md'
+  - Guides:
+    - Test: 'guide.md'
+  - Modpack Page🔗: 'https://www.modrinth.com/mos-mons-smp'
+theme:
+  name: material
+  highlightjs: true
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - toc.integrate
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
