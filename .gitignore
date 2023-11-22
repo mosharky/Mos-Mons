@@ -9,8 +9,8 @@
 /config/indium-renderer.properties
 /config/xaerominimap_entities.json
 /config/fabric/indigo-renderer.properties
-/kubejs/config/client.properties
-/kubejs/config/common.properties
+# /kubejs/config/client.properties
+# /kubejs/config/common.properties
 
 # root folders
 /not-enough-crashes/
