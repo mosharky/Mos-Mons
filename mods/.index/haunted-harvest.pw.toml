@@ -1,0 +1,13 @@
+filename = 'hauntedharvest-1.20-3.1.12.jar'
+name = 'Haunted Harvest'
+side = 'both'
+
+[download]
+hash = '914da0afdd21699459f268c8fad478bfbd0f2ce4a5347b896946525b9efadad7d3291744a038c2ed852bbc0d90be8d53e2a990b7131613736a40ff90122a2da2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a378ICDH/versions/5MiroJud/hauntedharvest-1.20-3.1.12.jar'
+
+[update.modrinth]
+mod-id = 'a378ICDH'
+version = '5MiroJud'

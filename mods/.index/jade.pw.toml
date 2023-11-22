@@ -1,0 +1,13 @@
+filename = 'Jade-1.20.1-forge-11.6.3.jar'
+name = 'Jade 🔍'
+side = 'both'
+
+[download]
+hash = 'c6f7a0895ce936c2ebd5bf68490aea3c0a90d93d6a5906d2c87230314fc38ae401593abf6de7e4e32ad866c19ef7f6a42220f8d2d370d10342f08ae0f61aac0f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/5gvujWrb/Jade-1.20.1-forge-11.6.3.jar'
+
+[update.modrinth]
+mod-id = 'nvQzSEkH'
+version = '5gvujWrb'

@@ -1,0 +1,13 @@
+filename = 'snowyspirit-1.20-2.2.6.jar'
+name = 'Snowy Spirit'
+side = 'both'
+
+[download]
+hash = '6280dc1baec890cdb0c70262d5db976364dfba65d7eb6d11f112394ab6175233e2ebe8812ae22a5e2b720d3e3d1939ce4ad48cc9b79e04f6f78acec9e580e04c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UiFDlI7w/versions/ZCy3RVJe/snowyspirit-1.20-2.2.6.jar'
+
+[update.modrinth]
+mod-id = 'UiFDlI7w'
+version = 'ZCy3RVJe'

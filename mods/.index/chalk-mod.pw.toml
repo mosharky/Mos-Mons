@@ -1,0 +1,13 @@
+filename = 'chalk-1.20.1-1.6.3.jar'
+name = 'Chalk'
+side = 'both'
+
+[download]
+hash = '14e53bd3805296a910908b27e380555aa42800d91bb0e63eceeef130d22b7983ad871c30fcbc79de82f448ed113e6648b0ad821ded7045b65716f46600699a62'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YWGP4Y1d/versions/7CMo7kxT/chalk-1.20.1-1.6.3.jar'
+
+[update.modrinth]
+mod-id = 'YWGP4Y1d'
+version = '7CMo7kxT'

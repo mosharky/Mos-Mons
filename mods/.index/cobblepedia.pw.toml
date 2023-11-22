@@ -1,0 +1,13 @@
+filename = 'Cobblepedia-Forge-0.5.0.jar'
+name = 'Cobblepedia'
+side = 'both'
+
+[download]
+hash = '88f888437c1f7e67c5bba882bed11642c37975c749a386839d48be1350181ec44ba78d1a5de5ff6f216119e6b58dd80290e7e0e368c38a31b4d5bfb72d0f50df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2obPz7jf/versions/RPkg0hxz/Cobblepedia-Forge-0.5.0.jar'
+
+[update.modrinth]
+mod-id = '2obPz7jf'
+version = 'RPkg0hxz'

@@ -1,0 +1,13 @@
+filename = 'ironshulkerbox-1.20.1-5.3.2.jar'
+name = 'Iron Shulker Boxes'
+side = 'both'
+
+[download]
+hash = '22ce5db516c140835b81a892b8952d65bb610b2f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4596119
+project-id = 314911

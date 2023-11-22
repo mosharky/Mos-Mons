@@ -1,0 +1,13 @@
+filename = 'iwannaskate-1.2.0.jar'
+name = 'I Wanna Skate'
+side = 'both'
+
+[download]
+hash = '06018f81280b5fbf5b4ed980a570bd9080b7a3bcea1c56f464a38bb246db00d77e358d67674b17fa5291f55ab870aab8464c9512a40cd878190ffb60dae21262'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OuJDwbIs/versions/V5qgYPzs/iwannaskate-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'OuJDwbIs'
+version = 'V5qgYPzs'

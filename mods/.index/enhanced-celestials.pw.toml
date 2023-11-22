@@ -1,0 +1,13 @@
+filename = 'Enhanced_Celestials-forge-1.20.1-5.0.0.2.jar'
+name = 'Enhanced Celestials'
+side = 'both'
+
+[download]
+hash = '2ab1d136a5653748114f6bb38d98cdce6eeb7375b3c4cbe5145422ff02271c181b303216f4d38df8195f5cd65eed89a4aa2484b159f777ceb8e6725f646239db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2rL16t1O/versions/rctvvrAu/Enhanced_Celestials-forge-1.20.1-5.0.0.2.jar'
+
+[update.modrinth]
+mod-id = '2rL16t1O'
+version = 'rctvvrAu'

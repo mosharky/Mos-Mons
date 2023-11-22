@@ -1,0 +1,13 @@
+filename = 'postmortalparticles-1.0.0-1.20.x.jar'
+name = 'Postmortal Particles'
+side = 'client'
+
+[download]
+hash = '30e07aa2c658d52cff2ff70418cd251584f074946c57e3a3f8a98169071b255938afdf0974cd93e92ed93efb6169cac639e38b71e3e8a95644cc4d43010b1bc2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5km6gS6P/versions/aWsO5wvM/postmortalparticles-1.0.0-1.20.x.jar'
+
+[update.modrinth]
+mod-id = '5km6gS6P'
+version = 'aWsO5wvM'

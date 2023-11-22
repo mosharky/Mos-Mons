@@ -1,0 +1,13 @@
+filename = 'dummmmmmy-1.20-1.8.10.jar'
+name = 'MmmMmmMmmMmm'
+side = 'both'
+
+[download]
+hash = 'de4491ca9584da1a48c8c5895db07c7380898f367362d4e14379678200108dbff218cb0408e73919993549e3b8502d0cd475a44a52e395209cffc7c0f53b6b39'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Adega8YN/versions/7MCqqDqj/dummmmmmy-1.20-1.8.10.jar'
+
+[update.modrinth]
+mod-id = 'Adega8YN'
+version = '7MCqqDqj'

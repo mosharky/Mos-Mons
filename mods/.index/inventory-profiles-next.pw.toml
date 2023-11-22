@@ -1,0 +1,13 @@
+filename = 'InventoryProfilesNext-forge-1.20-1.10.9.jar'
+name = 'Inventory Profiles Next'
+side = 'client'
+
+[download]
+hash = '792be4e260ae1e8155ac9ea5b3f08a6231fa0274cd1f97eacc5381639c2b6619077b532ed04af15ec3db2e32a18bbc7b0fdb515dc26c4a7a309d546ff1bb55a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/ezUXRXN1/InventoryProfilesNext-forge-1.20-1.10.9.jar'
+
+[update.modrinth]
+mod-id = 'O7RBXm3n'
+version = 'ezUXRXN1'

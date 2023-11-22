@@ -1,0 +1,13 @@
+filename = 'entity_model_features_forge_1.20.1-1.1.0.jar'
+name = '[EMF] Entity Model Features'
+side = 'client'
+
+[download]
+hash = 'f06ed705ec3ffea630e668cdb99e69d919a69885cccf6b5fe9c73e4f22610adebd5f0bb313c9723a31be177cd30acfff26863138f4e1d6b9e286402bb36c6814'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4I1XuqiY/versions/Gnq4IVE1/entity_model_features_forge_1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '4I1XuqiY'
+version = 'Gnq4IVE1'

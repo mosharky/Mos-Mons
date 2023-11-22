@@ -1,0 +1,13 @@
+filename = 'DramaticDoors-QuiFabrge-1.20.1-3.1.3_3.jar'
+name = 'Dramatic Doors'
+side = 'both'
+
+[download]
+hash = '580695e4aaa7a7ec4b4dad39b6880a75b91221a1f54b24852b166dc823f5dfb4c486d02872b96d0c9373005d83340ca41fb67dd3cb6c53843f8ecf561fdb6b3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aQ7h7gal/versions/4XpyFBTO/DramaticDoors-QuiFabrge-1.20.1-3.1.3_3.jar'
+
+[update.modrinth]
+mod-id = 'aQ7h7gal'
+version = '4XpyFBTO'

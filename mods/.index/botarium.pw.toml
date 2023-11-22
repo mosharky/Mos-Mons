@@ -1,0 +1,13 @@
+filename = 'botarium-forge-1.20.1-2.2.1.jar'
+name = 'Botarium'
+side = 'both'
+
+[download]
+hash = '886bf04336140114cdd141bf1604a3545cec412642ae9b48b0892b959c863ba19c2eb681df9d3e1f03986dac2f3c1edc6e8153a70dd65e1b9c81474aad760485'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2u6LRnMa/versions/kLa36Hso/botarium-forge-1.20.1-2.2.1.jar'
+
+[update.modrinth]
+mod-id = '2u6LRnMa'
+version = 'kLa36Hso'

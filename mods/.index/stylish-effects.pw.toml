@@ -1,0 +1,13 @@
+filename = 'StylishEffects-v8.0.0-1.20.1-Forge.jar'
+name = 'Stylish Effects'
+side = 'client'
+
+[download]
+hash = '2cffe62453f6d7300453c23945e4f6bc6831988b3effbeeff25b653db94b871259172552c3133a2318f215e35daae976cb22acdf854d6fa445a77762b9846505'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/onDuQF5e/versions/2Pwhq32l/StylishEffects-v8.0.0-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'onDuQF5e'
+version = '2Pwhq32l'

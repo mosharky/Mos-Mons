@@ -1,0 +1,13 @@
+filename = 'cobblemonintegrations-1.20.1-1.0.3.jar'
+name = 'Cobblemon Integrations'
+side = 'both'
+
+[download]
+hash = '3e3dd5fc157406b014c18c7adc7a8d3b405990e7c7555e693a031b616c72ab4b11db7f97b88948baf9416c26e46b5c7172b84bbe257f88ce3f902f6a4e9646ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NPCfuUI4/versions/rPV80Mx0/cobblemonintegrations-1.20.1-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'NPCfuUI4'
+version = 'rPV80Mx0'

@@ -1,0 +1,13 @@
+filename = 'PacketFixer-forge-1.2.0-1.20.1.jar'
+name = 'Packet Fixer'
+side = 'both'
+
+[download]
+hash = '0961710caced24beeff3f8706bcb2c526ea1947f01240a58a316fcd47aab4c40ce41e6afc825bbdafd7eb77b8d51f623a89bd7c4880e598f04eda2290f40665c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/6sjS8ir8/PacketFixer-forge-1.2.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = '6sjS8ir8'

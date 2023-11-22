@@ -1,0 +1,13 @@
+filename = 'trowels-1.20-2.0.0.jar'
+name = 'Trowels'
+side = 'both'
+
+[download]
+hash = 'd186c03aca53a5cbd84e5af07ea68371e3edbe4e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4576122
+project-id = 724261

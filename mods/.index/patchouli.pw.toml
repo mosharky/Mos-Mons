@@ -1,0 +1,13 @@
+filename = 'Patchouli-1.20.1-81-FORGE.jar'
+name = 'Patchouli'
+side = 'both'
+
+[download]
+hash = 'fa1bb3843b147c6048d26095e79da110372f073436448b5ea36caedee28831d6262164e731f8c06ceced1766e555523c7f3b689f1a1c90e7082355e50ea9ab1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nU0bVIaL/versions/YodpuIBJ/Patchouli-1.20.1-81-FORGE.jar'
+
+[update.modrinth]
+mod-id = 'nU0bVIaL'
+version = 'YodpuIBJ'

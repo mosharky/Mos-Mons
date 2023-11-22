@@ -1,0 +1,13 @@
+filename = 'deep_aether-1.20.1-1.0.12.jar'
+name = 'Deep Aether'
+side = 'both'
+
+[download]
+hash = '57b73c39e455ecd5a691bcc0aed2838e6f181f3724b917fc50fd58bda601ed99b31cc9e74df319674b5f84bec9c76c818ae49bd1e42c50f2c568a5e82bf76568'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gcHIih5B/versions/ppoz8buu/deep_aether-1.20.1-1.0.12.jar'
+
+[update.modrinth]
+mod-id = 'gcHIih5B'
+version = 'ppoz8buu'

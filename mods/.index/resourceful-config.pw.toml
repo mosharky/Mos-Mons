@@ -1,0 +1,13 @@
+filename = 'resourcefulconfig-forge-1.20.1-2.1.0.jar'
+name = 'Resourceful Config'
+side = 'both'
+
+[download]
+hash = '873979366dc5fea5681390d31491d92148742bc3744e9d935b8d2d7c630a834da92eef2365a88c910d92c309f806e35683d12dbdc923147268b79cfaf1fd3683'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M1953qlQ/versions/iktUkXe8/resourcefulconfig-forge-1.20.1-2.1.0.jar'
+
+[update.modrinth]
+mod-id = 'M1953qlQ'
+version = 'iktUkXe8'

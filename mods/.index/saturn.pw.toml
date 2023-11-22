@@ -1,0 +1,13 @@
+filename = 'saturn-mc1.20.1-0.0.7.jar'
+name = 'Saturn'
+side = 'both'
+
+[download]
+hash = 'ef86a2d4e167967e9b19c628de89404322054bda051cc14e208a45ddb91a11335594a7d0557613e7a425b580b0632daa722fd9f81c6ce99d0ec65fa584b04eb3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2eT495vq/versions/LAASiLy4/saturn-mc1.20.1-0.0.7.jar'
+
+[update.modrinth]
+mod-id = '2eT495vq'
+version = 'LAASiLy4'
