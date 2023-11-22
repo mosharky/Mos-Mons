@@ -1,3 +1,15 @@
+# github
+.gitignore
+.gitattributes
+LICENSE
+/.github/
+/.vscode/
+/.git/
+
+# mods
+/mods/.connector/
+/mods/probejs*
+
 # config
 /config/jei/world/
 /config/blockswap/known_states/
@@ -9,17 +21,13 @@
 /config/indium-renderer.properties
 /config/xaerominimap_entities.json
 /config/fabric/indigo-renderer.properties
-/kubejs/config/client.properties
-/kubejs/config/common.properties
 
 # root folders
 /not-enough-crashes/
 /crash-reports/
-/resourcepacks/
 /screenshots/
 /saves/
 /logs/
-/mods/
 /debug/
 /data/
 /local/
@@ -29,6 +37,9 @@
 /XaeroWaypoints*/
 /modernfix/
 /showdown/
+/kubejs/probe/
+/kubejs/config/probejs.json
+/kubejs/jsconfig.json
 
 # root files
 knownkeys.txt
@@ -41,7 +52,6 @@ patchouli_data.json
 o_prof
 enigmatic_persistence.dat
 reauth.toml
-mods
 servers.dat
 rhino.local.properties
 seamless.txt
