@@ -6,6 +6,9 @@
 /config/voicechat/username-cache.json
 /config/voicechat-volumes.properties
 /config/Obscuria/Data/
+/config/indium-renderer.properties
+/config/xaerominimap_entities.json
+/config/fabric/indigo-renderer.properties
 
 # root folders
 /not-enough-crashes/
