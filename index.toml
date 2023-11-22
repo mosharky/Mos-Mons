@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/AqMods/caracal.config"
-hash = "75e4472b37ec50a693b398313b0cfa83f0f35678f99647a860f8f3b968102f43"
-
-[[files]]
 file = "config/HorseBuff.toml"
 hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
 
