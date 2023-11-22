@@ -19,7 +19,8 @@
 /screenshots/
 /saves/
 /logs/
-/mods/
+# /mods/
+/mods/.connector/
 /debug/
 /data/
 /local/
