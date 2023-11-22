@@ -15,7 +15,7 @@
 # root folders
 /not-enough-crashes/
 /crash-reports/
-/resourcepacks/
+# /resourcepacks/
 /screenshots/
 /saves/
 /logs/
