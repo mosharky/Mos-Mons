@@ -79,6 +79,4 @@ ItemEvents.modification(e => {
     // e.modify('cataclysm:the_incinerator', item => item.attackDamage = 11)
     // e.modify('cataclysm:void_forge', item => item.attackDamage = 13)
     // e.modify('cataclysm:infernal_forge', item => item.attackDamage = 13)
-
-
 })
