@@ -17,8 +17,13 @@ JEIEvents.removeCategories(e => {
     ])
 })
 
+JEIEvents.removeRecipes(e => {
+    // console.log(e.categoryIds)
+    e.remove('minecraft:crafting', ['salt:salting'])
+})
+
 JEIEvents.information(e => {
-    // e.addItem('eidolon:tallow', 'Killing animals such as pigs, cows, sheep, horses, and llamas with a Butcher Knife is an alternative method to obtaining tallow.')
+    e.addItem('salt:salt', 'Combine with a food item to increase its food value.')
 })
 
 JEIEvents.addItems(e => {
