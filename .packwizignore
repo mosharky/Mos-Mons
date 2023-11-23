@@ -8,6 +8,7 @@ LICENSE
 
 # mods
 /mods/.connector/
+/mods/.index/
 /mods/probejs*
 
 # config
@@ -21,7 +22,6 @@ LICENSE
 /config/indium-renderer.properties
 /config/xaerominimap_entities.json
 /config/fabric/indigo-renderer.properties
-/config/AqMods/caracal.config
 
 # root folders
 /not-enough-crashes/

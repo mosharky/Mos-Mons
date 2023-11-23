@@ -12,15 +12,16 @@
 # /kubejs/config/client.properties
 # /kubejs/config/common.properties
 
+# mods
+/mods/.connector/
+/mods/.index/
+
 # root folders
 /not-enough-crashes/
 /crash-reports/
-# /resourcepacks/
 /screenshots/
 /saves/
 /logs/
-# /mods/
-/mods/.connector/
 /debug/
 /data/
 /local/
