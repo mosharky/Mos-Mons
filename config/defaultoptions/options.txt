@@ -22,7 +22,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5042583626760564
+mouseSensitivity:0.5019091109154928
 fov:0.375
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","builtin/overrides_pack","default_seamless","builtin/DAGoldenSwetBallFixClient","builtin/deep_aether_additional_assets","file/Authentic Shadows_1.20.zip","file/CreateMon-v1.3.zip","file/FreshAnimations_v1.8.1.zip","file/Icon Xaero\u0027s 1.1 .zip","file/Icon - Xaero X FA - v2.4 (1.20.2).zip","file/Icon -Squeel- Xaero X Rats -v1.1- (1.20.1).zip","file/XaerosCobblemon-2.0.4_stars+1.4.0.zip","file/Eidolon Minimap Icons.zip","black_icons"]
-incompatibleResourcePacks:["builtin/DAGoldenSwetBallFixClient","builtin/deep_aether_additional_assets","file/FreshAnimations_v1.8.1.zip","file/Icon Xaero\u0027s 1.1 .zip","file/Icon - Xaero X FA - v2.4 (1.20.2).zip","file/Eidolon Minimap Icons.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","builtin/overrides_pack","default_seamless","builtin/DAGoldenSwetBallFixClient","builtin/deep_aether_additional_assets","file/FreshAnimations_v1.8.1.zip","file/Icon - Xaero X FA - v2.4 (1.20.2).zip","black_icons"]
+incompatibleResourcePacks:["builtin/DAGoldenSwetBallFixClient","builtin/deep_aether_additional_assets","file/FreshAnimations_v1.8.1.zip","file/Icon - Xaero X FA - v2.4 (1.20.2).zip"]
 lastServer:
 lang:en_us
 soundDevice:""
