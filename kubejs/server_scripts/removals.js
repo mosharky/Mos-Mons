@@ -27,6 +27,7 @@ ServerEvents.recipes(e => {
         /bclib:.*/,
         // mod-specific/container_overhaul
         /.*ironshulkerbox.*/,
+        'minecraft:shulker_box'
     ]
     idRemovals.forEach(removal => {
         e.remove({ id: removal })
