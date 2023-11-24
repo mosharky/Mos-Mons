@@ -1,45 +1,11 @@
 // https://github.com/Creators-of-Create/Create/tree/mc1.20.1/dev/src/generated/resources/data/create/recipes
 ServerEvents.recipes(e => {
 
-    // crushing
-    e.custom({
-        type: 'create:crushing',
-        ingredients: [Ingredient.of('ad_astra:moon_cheese_ore').toJson()],
-        results: [
-            { item: 'brewinandchewin:flaxen_cheese_wedge', count: 1 },
-            { item: 'brewinandchewin:flaxen_cheese_wedge', count: 1, chance: 0.25 },
-            { item: 'create:experience_nugget', count: 1, chance: 0.75 },
-            { item: 'ad_astra:moon_cobblestone', count: 1, chance: 0.125 }
-        ],
-        processingTime: 300
-    }).id('create:crushing/moon_cheese_ore')
-
-
     // pressing
-    e.custom({
-        type: 'create:pressing',
-        ingredients: [Ingredient.of('#forge:ingots/silver').toJson()],
-        results: [Item.of('embers:silver_plate').toJson()]
-    }).id('kubejs:pressing/silver_ingot')
-
-    e.custom({
-        type: 'create:pressing',
-        ingredients: [Ingredient.of('#forge:ingots/lead').toJson()],
-        results: [Item.of('embers:lead_plate').toJson()]
-    }).id('kubejs:pressing/lead_ingot')
-
-    e.custom({
-        type: 'create:splashing',
-        ingredients: [Ingredient.of('#minecraft:logs').toJson()],
-        results: [Item.of('betterarcheology:rotten_log').toJson()]
-    })
-
-    e.custom({
-        type: 'create:splashing',
-        ingredients: [Ingredient.of('#minecraft:planks').toJson()],
-        results: [Item.of('betterarcheology:rotten_planks').toJson()]
-    })
-
+    e.recipes.createPressing('embers:silver_plate', '#forge:ingots/silver', ).id('kubejs:pressing/silver_ingot')
+    e.recipes.createPressing( 'embers:lead_plate', '#forge:ingots/lead').id('kubejs:pressing/lead_ingot')
+    e.recipes.createSplashing('betterarcheology:rotten_log', '#minecraft:logs').id('kubejs:splashing/logs')
+    e.recipes.createSplashing( 'betterarcheology:rotten_planks', '#minecraft:planks').id('kubejs:splashing/planks')
 
     // woodType sawing
     e.remove({ id: /create:cutting.*/ })
@@ -47,28 +13,14 @@ ServerEvents.recipes(e => {
         if (woodType.logBlock != undefined) {
             // log to stripped log
             if (woodType.logBlockStripped != undefined && woodType.plankBlock != undefined) {
-                e.custom({
-                    type: 'create:cutting',
-                    ingredients: [Ingredient.of(woodType.logBlock).toJson()],
-                    results: [Item.of(woodType.logBlockStripped).toJson()],
-                    processingTime: 50
-                })
-
-                e.custom({
-                    type: 'create:cutting',
-                    ingredients: [Ingredient.of(woodType.logBlockStripped).toJson()],
-                    results: [Item.of(woodType.plankBlock, 6).toJson()],
-                    processingTime: 20
-                })
+                e.recipes.createCutting(woodType.logBlockStripped, woodType.logBlock).processingTime(50).id(`kubejs:cutting/${woodType.logBlock.replace(':', '_')}`)
+                e.recipes.createCutting(Item.of(woodType.plankBlock, 6), woodType.logBlockStripped).processingTime(20).id(`kubejs:cutting/${woodType.logBlockStripped.replace(':', '_')}`)
             }
 
-            if (woodType.woodBlockStripped != undefined && woodType.plankBlock != undefined) {
-                e.custom({
-                    type: 'create:cutting',
-                    ingredients: [Ingredient.of(woodType.woodBlockStripped).toJson()],
-                    results: [Item.of(woodType.plankBlock, 6).toJson()],
-                    processingTime: 50
-                })
+            // wood to stripped wood
+            if (woodType.woodBlock != undefined && woodType.woodBlockStripped != undefined && woodType.plankBlock != undefined) {
+                e.recipes.createCutting(woodType.woodBlockStripped, woodType.woodBlock).processingTime(50).id(`kubejs:cutting/${woodType.woodBlock.replace(':', '_')}`)
+                e.recipes.createCutting(Item.of(woodType.plankBlock, 6), woodType.woodBlockStripped).processingTime(50).id(`kubejs:cutting/${woodType.woodBlockStripped.replace(':', '_')}`)
             }
         }
     })
