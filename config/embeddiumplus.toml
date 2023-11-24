@@ -40,7 +40,7 @@
 			"Dark End?" = false
 
 	[Settings."Entity Distance"]
-		"Enable Max Distance Checks" = true
+		"Enable Max Distance Checks" = false
 		#List of entities to not cull based on distance.
 		#Example: "minecraft:bat"
 		"Entity Whitelist" = []
