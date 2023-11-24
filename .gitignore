@@ -46,6 +46,7 @@ reauth.toml
 servers.dat
 rhino.local.properties
 seamless.txt
+fabricloader.log
 
 # launcher-related
 .curseclient

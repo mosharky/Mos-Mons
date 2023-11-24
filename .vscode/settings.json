@@ -40,7 +40,8 @@
         "seamless.txt": true,
         "servers.dat": true,
         "servers.dat_old": true,
-        "data/": true
+        "data/": true,
+        "fabricloader.log": true
     },
     "json.schemas": [
         {
