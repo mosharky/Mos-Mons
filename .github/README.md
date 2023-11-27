@@ -1,5 +1,5 @@
 # Mo's Mons' SMP
-Under Construction
+A private SMP ran using packwiz. Documentation can be found at https://mosharky.github.io/Mos-Mons/
 
 # Developing
 1. Clone the repository's dev branch

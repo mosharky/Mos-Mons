@@ -1,16 +1,27 @@
 # https://squidfunk.github.io/mkdocs-material/getting-started/
 # https://www.mkdocs.org/user-guide/writing-your-docs/
-site_name: Mo's Mons' SMP
+site_name: Mo's Mons' Wiki
 docs_dir: pages
 repo_url: https://github.com/mosharky/Mos-Mons
 repo_name: mosharky/Mos-Mons
 nav:
-  - Home: 'index.md'
-  - Guides:
-    - Test: 'guide.md'
-  - Modpack Page🔗: 'https://www.modrinth.com/mos-mons-smp'
+  - 🏠Home: 'index.md'
+  - 📋Information & Guides:
+    - Installation: 'information_and_guides/installation.md'
+    - Performance: 'information_and_guides/performance.md'
+    - Additional Tips: 'information_and_guides/additional_tips.md'
+    - Modlist: 'information_and_guides/modlist.md'
+  - 📜Changelogs:
+    - v2.1.1: 'changelogs/v2.1.1.md'
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
 theme:
   name: material
+  logo: https://raw.githubusercontent.com/mosharky/Mos-Mons/main/.github/docs/assets/logo.png
+  favicon: https://raw.githubusercontent.com/mosharky/Mos-Mons/main/.github/docs/assets/logo.png
   highlightjs: true
   features:
     - navigation.tabs
