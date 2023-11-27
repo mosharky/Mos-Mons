@@ -1,6 +1,6 @@
 // priority: 1
 
-Platform.mods.kubejs.name = 'MRG'
+Platform.mods.kubejs.name = "Mo's Mons'"
 Platform.mods.eidolon.name = 'Eidolon'
 Platform.mods.ironshulkerbox.name = 'Minecraft'
 
