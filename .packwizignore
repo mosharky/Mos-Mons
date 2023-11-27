@@ -22,6 +22,7 @@ LICENSE
 /config/indium-renderer.properties
 /config/xaerominimap_entities.json
 /config/fabric/indigo-renderer.properties
+/config/spark/activity.json
 
 # root folders
 /not-enough-crashes/
@@ -43,24 +44,25 @@ LICENSE
 /kubejs/jsconfig.json
 
 # root files
-knownkeys.txt
-options.txt
-realms_persistence.json
-TrashSlotSaveState.json
-usercache.json
-usernamecache.json
-patchouli_data.json
-o_prof
-enigmatic_persistence.dat
-reauth.toml
-servers.dat
-rhino.local.properties
-seamless.txt
+/knownkeys.txt
+/options.txt
+/realms_persistence.json
+/TrashSlotSaveState.json
+/usercache.json
+/usernamecache.json
+/patchouli_data.json
+/o_prof
+/enigmatic_persistence.dat
+/reauth.toml
+/servers.dat
+/rhino.local.properties
+/seamless.txt
+/fabricloader.log
 
 # launcher-related
-.curseclient
-icon.png
+/.curseclient
+/icon.png
 /server-resource-packs/
 /coremods/
 /texturepacks/
-minecraftinstance.json
+/minecraftinstance.json
