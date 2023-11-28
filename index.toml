@@ -1069,10 +1069,6 @@ file = "config/lychee-common.yaml"
 hash = "98fc7eda3eb102b1155380e0d75af5ec7115a0bf5f052f1f54d197cdf1d0ee1e"
 
 [[files]]
-file = "config/mc2discord.toml"
-hash = "c1e3b3c96349ed75e7916aa88c49fa6b2849be664c46c3604ab4f2036e52e5be"
-
-[[files]]
 file = "config/memorysettings.json"
 hash = "01fec09de4505c3e660d5219b08b2707680ae8d5c7b1b0f9e7981555ed2d3f60"
 
