@@ -1590,11 +1590,11 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "afaea449ce6debcbf89dc4bdc5044ef36e6ee71ff2cb4c0c2577eba0dcf735f1"
+hash = "c70023d761b09fef9249081e5c0979d541e61dbeb72e808fd7402f5b5804dbc2"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "475d803881d275eb059dbcfaa3fd62aebf27f7bd9476f92546ee78d21c8bea88"
+hash = "a4e9cd6ebe4ce8b08c45bce24150b80dac82096ed45655ce2567ba6f99ceb56e"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
