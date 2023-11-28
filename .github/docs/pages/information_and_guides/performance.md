@@ -1,5 +1,5 @@
 ## Allocating more ram
-The modpack by default uses and at-minimum needs 4000MB or 4GB of memory allocated. If you have **more** than 8GB of ram, consider allocating 6-8GB!
+The modpack by default uses and at-minimum needs 4000MB or 4GB of memory allocated. If you have **more** than 8GB of ram, consider allocating 6-8GB more. At 4-6GB, your game could start stuttering after playing for a few hours.
 
 1. Select the instance in Prism Launcher
 2. On the right, select **"Edit"**

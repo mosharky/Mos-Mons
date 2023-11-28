@@ -1,13 +1,13 @@
 ## Installing the modpack
 
 1. Download [Prism Launcher](https://prismlauncher.org/download/?from=button) 
-2. Run Prism Launcher.
+2. Run the Prism Launcher setup file.
 3. During setup, ensure that you select Java 17.
       - If you don't see Java 17 as an option, I'd recommend you install [Temurin/Java 17 here](https://adoptium.net/temurin/releases/?version=17). Be sure to select the correct version for your system.
 4. After setup, click on **"Add Instance"** on the top left.
 5. On the left, select **"Import"** and copy-paste this link:
     ```
-    https://github.com/mosharky/Mos-Mons/releases/download/instance-2.1.1/Mos_Mons_Instance.zip
+    https://github.com/mosharky/Mos-Mons/releases/download/instance-2.1.1/prism-instance-2.1.1.zip
     ```
 6. On the bottom, press **"Ok"**.
 7. Once it's installed, go to the top right **"Accounts"** button and select **"Manage accounts"**.
@@ -15,6 +15,7 @@
 9. Launch the modpack by double-clicking the instance or selecting it and pressing **"Launch"** on the right.
 
 **The modpack will auto-install on launch, and will auto-update if there is one. Have fun!**
+
 
 ***
 
