@@ -2409,10 +2409,6 @@ file = "mods/SnowRealMagic-1.20.1-forge-9.0.2.jar"
 hash = "24c63f4caefb1203710e8f03064d7aaace9197ae782c023ab4a688cdec86e7a4"
 
 [[files]]
-file = "mods/Sonance-0.3.0+1.20.1.jar"
-hash = "e5fdc7eed3b85ab412df1c50a375a92fe048707561548f8906973c9bc03caa67"
-
-[[files]]
 file = "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar"
 hash = "4f5cee57d8615ac46de8eecc53d8b559a401caa676db132bdfd587dccc64b9a3"
 
