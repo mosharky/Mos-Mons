@@ -1330,7 +1330,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "be74f2b4d48410a5712fd8d8ccdb79341fe40276146a38005d8ee53f7eace869"
+hash = "4a1525acabc44165ad3e0000c6fee1e9c34a61f106abec55673ca356f06ac975"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
