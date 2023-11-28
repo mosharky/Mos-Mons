@@ -18,6 +18,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
+  - toc:
+      permalink: true
 theme:
   name: material
   logo: https://raw.githubusercontent.com/mosharky/Mos-Mons/main/.github/docs/assets/logo.png
@@ -27,11 +29,12 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.path
     # - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - toc.integrate
+    # - toc.integrate
     - toc.follow
     - search.suggest
     - search.highlight
