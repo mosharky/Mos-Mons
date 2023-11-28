@@ -2601,10 +2601,6 @@ file = "mods/carpeted-1.20-1.4.jar"
 hash = "d5327afb3dfcfaea7dacac50ec0b5d2796ff7b75aa0eacf7aba342dd37b002de"
 
 [[files]]
-file = "mods/cat_jam-forge-mc1.20-1.2.1.jar"
-hash = "ba019d18dcd231b0d7efb0a88f94107ce46f5831fc5b85ab4db98f3adc24c8b3"
-
-[[files]]
 file = "mods/chalk-1.20.1-1.6.3.jar"
 hash = "17146429a26009a0679dabdf87ddb897068511d6ef3e5d735878f078ea8a91c0"
 
@@ -2631,10 +2627,6 @@ hash = "e5fe6b1c0b597cfc866e541a34fc21ddd03f30096653edf8f29eb6c705093ed0"
 [[files]]
 file = "mods/citadel-2.4.9-1.20.1.jar"
 hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
-
-[[files]]
-file = "mods/clickthrough-0.0.2-1.20.1.jar"
-hash = "9f8a52fa5801420090001e8915458b26431a8321617c82a132c66ddb9aa79384"
 
 [[files]]
 file = "mods/clienttweaks-forge-1.20-11.1.0.jar"
@@ -2787,10 +2779,6 @@ hash = "2bcf63b82c2301d7e01755ef006ee7f84c1af24947ca873ac1a8507059ac1292"
 [[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
-
-[[files]]
-file = "mods/feytweaks-1.20-1.2.7.jar"
-hash = "8bd665c712ee8a60c73feb8400465489a8a9d956844315f6f4190546522a1dfa"
 
 [[files]]
 file = "mods/findme-3.1.0-forge.jar"
@@ -3001,6 +2989,10 @@ file = "mods/our-villager-discounts-1.20.1+build.0-forge.jar"
 hash = "5f83071530dde330233f2d255cbfe2b4bd7234589cb59a8b1e5da8e497514da5"
 
 [[files]]
+file = "mods/packwizsu-2.1.1.jar"
+hash = "d90ad1330eca6efdbee896ebae16778f616cc2ad19e2082d45ca67b7525ce3e6"
+
+[[files]]
 file = "mods/polylib-forge-1200.0.2-build.85.jar"
 hash = "4ed343e583efd46611c49c58faf5f151734437383bb8d38948b9546469326929"
 
@@ -3039,10 +3031,6 @@ hash = "43734e95802c5d61224d48145f91154b0c9b41e05e01588464fbc777fa70b891"
 [[files]]
 file = "mods/saturn-mc1.20.1-0.0.7.jar"
 hash = "0f561df29ba444641a2f58c39308a945045a4e83cfa7e2c4b0d66cef317d1aea"
-
-[[files]]
-file = "mods/seamless-2.2.1-forge-1.20.1.jar"
-hash = "e045fda1431332d7b2705f515b2fa5b82e4afa95b3104bb32baf22da29f9a7b3"
 
 [[files]]
 file = "mods/serializationisbad-1.5.jar"

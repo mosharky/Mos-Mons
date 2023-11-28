@@ -32,6 +32,10 @@ LICENSE
 /mods/ToastControl*
 /mods/visuality*
 /mods/wakes*
+/mods/cat_jam*
+/mods/seamless*
+/mods/feytweaks*
+/mods/clickthrough*
 
 # config
 /config/jei/world/
