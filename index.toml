@@ -2765,6 +2765,10 @@ file = "mods/fabric-api-0.90.7+1.10.2+1.20.1.jar"
 hash = "8c400784c7a010f6cbfb64fbadfe166e0a4fbdff53f7e13748070ae716bde315"
 
 [[files]]
+file = "mods/fastpaintings-1.20-1.2.3.jar"
+hash = "9c8e3ace722bdbf8e786f8cbc088ddabd185364cfe13cc123bff6fc523234ee3"
+
+[[files]]
 file = "mods/fennecfox-forge-1.20.1-1.0.0.jar"
 hash = "2bcf63b82c2301d7e01755ef006ee7f84c1af24947ca873ac1a8507059ac1292"
 
