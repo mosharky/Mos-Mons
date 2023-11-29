@@ -11,32 +11,6 @@ LICENSE
 /mods/.index/
 /mods/probejs*
 
-# client-sided exceptions
-/config/*client*
-/config/*/*client*
-/kubejs/assets/
-/kubejs/client_scripts/
-/resourcepacks/
-/shaderpacks/
-/mods/appleskin*
-/mods/catalogue*
-/mods/entity_model_features*
-/mods/entity_texture_features*
-/mods/entityculling*
-/mods/euphonium*
-/mods/explosive-enhancement*
-/mods/farsight*
-/mods/foglooksmodernnow*
-/mods/mru*
-/mods/ToastControl*
-/mods/visuality*
-/mods/wakes*
-/mods/cat_jam*
-/mods/seamless*
-/mods/feytweaks*
-/mods/clickthrough*
-/mods/Sonance*
-
 # config
 /config/jei/world/
 /config/blockswap/known_states/
