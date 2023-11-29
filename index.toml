@@ -1170,7 +1170,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "0a029acc528e91354be2347a0d22698efd2cc05ef3db0b8199f05e18fa7c14ef"
+hash = "0b7c598f2cb8ed877adb65e974faf49370fff476fd7515dec29a8472c0315800"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1194,7 +1194,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "f423b6db0250015da132ae029e26634558eaa30cbb4dde4760cae3bde9bc208a"
+hash = "f918163d3b3e996de5cbe6204e755487d4dd799fa5ebd39b91fd1ba0707a02e8"
 
 [[files]]
 file = "config/kawaii-dishes-common.toml"
@@ -2702,7 +2702,7 @@ hash = "eceb97c0b5e26e1d96d54f589f7642c523c6b81ebf704ec12940e47b70ed7f50"
 
 [[files]]
 file = "kubejs/server_scripts/player.js"
-hash = "b845577eb24652e0592506a6fe52b741bdfa7ec0e2bfd56da82df8e25875bdbe"
+hash = "20b64697678f99d5662145e57d1e971f1cfe70e3464c0a7b957f4cfef30b36fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -3559,6 +3559,10 @@ hash = "e816c7f1b2f072b62d5e12483f9b29a06e12382c9629c13feea9c2b2ebb10b50"
 [[files]]
 file = "mods/mighty_mail-forge-1.20.1-1.0.14.jar"
 hash = "93c858deadb75e5eb3ff0d26bdc4acb081b0b9e70e1ded57d7a0f95349d85107"
+
+[[files]]
+file = "mods/miners_delight-1.20.1-1.2.jar"
+hash = "5dcf47e31f70a6a33d0d9143615705b872c0e084cd06917b3325f8ba9d529717"
 
 [[files]]
 file = "mods/modernfix-forge-5.9.3+mc1.20.1.jar"

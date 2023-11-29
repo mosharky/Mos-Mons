@@ -81,8 +81,9 @@ PlayerEvents.loggedOut(event => {
 
 
 // https://github.com/FTBTeam/FTB-Essentials/dev/common/src/main/java/dev/ftb/mods/ftbessentials/util/FTBEPlayerData.java
+let $FTBEssentials
 if (Platform.isLoaded('ftbessentials')) {
-    const $FBTEssentials = Java.loadClass('dev.ftb.mods.ftbessentials.util.FTBEPlayerData')
+    $FTBEssentials = Java.loadClass('dev.ftb.mods.ftbessentials.util.FTBEPlayerData')
 
     EntityEvents.death(event => {
         const entity = event.entity
